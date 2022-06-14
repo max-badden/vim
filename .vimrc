@@ -46,7 +46,7 @@ call plug#end()
 
 let mapleader = " "
 " <space> d to open Nerd tree
-nnoremap <C-n> :NERDTree<CR>
+nnoremap <C-q> :NERDTree<CR>
 
 " <space> t to open Terminal
 nnoremap <leader>t :bo term <Cr>
