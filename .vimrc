@@ -22,7 +22,7 @@ set belloff=all
 call plug#begin('~/.vim/plugged')
 
 Plug 'preservim/nerdtree'
-Plug 'https://github.com/ycm-core/YouCompleteMe'
+
 Plug 'https://github.com/morhetz/gruvbox'
 Plug 'http://github.com/tpope/vim-surround' " Surrounding ysw)
 Plug 'https://github.com/preservim/nerdtree' " NerdTree
