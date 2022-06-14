@@ -46,7 +46,8 @@ call plug#end()
 
 let mapleader = " "
 " <space> d to open Nerd tree
-nnoremap <leader>d :NERDTree <Cr>
+nnoremap <C-n> :NERDTree<CR>
+
 " <space> t to open Terminal
 nnoremap <leader>t :bo term <Cr>
 " <space> vt to open Terminal Vertically
